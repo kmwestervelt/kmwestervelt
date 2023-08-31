@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kristin Westervelt</h1>
+<h1 align="center">Hi 👋, I'm Kristin</h1>
 <h3 align="center">A Data Security Analyst</h3>
 
 - 🌱 I’m currently learning **The Google Cybersecurity Professional Certificate**
